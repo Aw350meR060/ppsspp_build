@@ -1,4 +1,4 @@
-PPSSPP - a fast and portable PSP emulator
+PPSSPP - a fast and portable PSP emulator 1
 =========================================
 
 Created by Henrik Rydgård
